@@ -1,0 +1,11 @@
+/* TEAM */
+    Developer: Arno Moonen
+    Contact: arno [at] moonen.xyz
+    Twitter: @ArnoMoonen
+	 GitHub: itavero
+    Location: Well, Gelderland, The Netherlands
+
+/* SITE */
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
