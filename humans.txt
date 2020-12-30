@@ -2,7 +2,7 @@
     Developer: Arno Moonen
     Contact: arno [at] moonen.xyz
     Twitter: @ArnoMoonen
-	 GitHub: itavero
+	GitHub: itavero
     Location: Well, Gelderland, The Netherlands
 
 /* SITE */
